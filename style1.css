@@ -1,0 +1,42 @@
+body{
+  background-color:#999999;
+}
+.firstTitle{
+  font-family: 'Solitreo', cursive;
+  font-size:60px;
+  margin:60px;
+  display:flex;
+  justify-content:center;
+  text-shadow: 4px 4px 5px #666666;
+  color:white;
+}
+.aboutMeparagraph{
+  line-height:2;
+  display:inline-block;
+  vertical-align: middle;
+  text-align:center;
+  text-shadow: 4px 4px 5px #8c8c8c;
+  background-color:white;
+}
+.returnPage{  
+  margin:20px;
+  font-family: 'Courgette', cursive;
+  font-size:45px;
+  text-shadow: 4px 4px 5px #666666;
+  color:white;
+  text-decoration: none;
+  display:flex;
+  justify-content:center;
+}
+.returnPage:hover{
+  background-color:lightblue;
+}
+.janisAti{
+  display:flex;
+  justify-content:center;
+}
+.center2{
+  text-decoration: none;
+  display:flex;
+  justify-content:center;
+}

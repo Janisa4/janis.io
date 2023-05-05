@@ -1,0 +1,27 @@
+.name{
+  color:#808080;
+  background-color:white;
+  font-family: 'Dancing Script', cursive;
+  font-size:70px;
+  padding:10px 24px ;
+  margin: 0px;
+  border:15px;
+  display: flex;
+  justify-content:flex-end;
+}
+body{
+    background-color:#999999;
+}
+.important{
+  display:flex;
+  justify-content: flex-start;
+}
+h3{
+  color:white;
+  padding:12px;
+  font-size:30px;
+  font-family: 'Patrick Hand', cursive;
+}
+.dots{
+  color:black;
+}
